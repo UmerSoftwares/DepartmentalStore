@@ -1,0 +1,24 @@
+barcode,productname,originalprice,saleprice,dealercode
+7823,Atta 5kg,200,250,001
+8901,Atta 10kg,380,450,001
+1234,Fries,40,50,002
+2345,Nugets 6pieces,130,160,002
+3456,Rice 10kg,950,1000,003
+5678,Rice 15kg,1440,1500,003
+7980,Suger 0.5kg,250,300,004
+1423,Suger 1kg,500,550,004
+1726,Daal Mash,40,50,005
+6753,Daal Moong,60,80,005
+4539,Large Bread,70,80,006
+9076,Eggs 1 dozen,100,120,006
+8912,Cocomo,4,5,007
+1892,Mineral Water 1.5L,40,60,008
+6722,Surf Excel 1kg,200,250,009
+5555,LUX Soap,50,55,010
+9088,Lipton Tea Pack,95,105,011
+6767,Colgate Herbal,60,70,012
+9999,Chocolate Chip,10,15,007
+6675,Cigaratte,50,100,013
+6382,Olpers Milk 1L,90,100,7634
+6390,Kingston USB 32GB,1000,1500,4563
+2718,Bun,12,15,5322

@@ -1,0 +1,11 @@
+:Owners:
+umer,umersoftwares
+nouman,pythonhero
+:Managers:
+sharjeel,jani123
+nabeel,luckyboy
+:Cashiers:
+yusuf,1234
+abcd,qwerty
+lala,temp
+smpl,pswd
